@@ -1,6 +1,6 @@
 - 👋 Hi, I’m gowthaman
-- 👀 I’m interested in artificial intelligence and programming skills
-- 🌱 I’m currently learning BCA general 2nd year
+- 👀 I’m interested in web development,app development and programming skills
+- 🌱 I’m currently learning BCA general 3rd year
 - 💞️ I’m looking to collaborate on any company that provides me an internship
 - 📫 to reach me
 - contact: 9884229060
